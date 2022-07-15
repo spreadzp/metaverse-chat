@@ -1,0 +1,9 @@
+# JavaScript files
+**/*.js
+
+# Next.js build cache
+.next/
+
+# Node.js modules
+node_modules/
+.vscode/
